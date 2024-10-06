@@ -1,5 +1,3 @@
 requests
 Flask
-scraper
 Selenium
-beautifulsoup4
