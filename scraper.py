@@ -1,7 +1,7 @@
 import requests
 
 def scrape_github_projects():
-    username = 'YOUR_GITHUB_USERNAME'  # Replace with your GitHub username
+    username = 'nida242004'  # Replace with your GitHub username
     token = 'YOUR_PERSONAL_ACCESS_TOKEN'  # Replace with your GitHub personal access token
 
     url = f'https://api.github.com/users/nida242004/repos'
